@@ -30,7 +30,4 @@ A Full Stack developer, focused on PHP.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Xandee-M&theme=radical&count_private=true&include_all_commits=true" alt="Leo's GitHub stats" style="align: center; display: inline-block; height: 11em;" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xandee-M" alt="Leo's wakatime stats" style="align: center; display: inline-block; height: 11em;" />
-</a>
 </div>
