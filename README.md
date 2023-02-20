@@ -9,7 +9,7 @@ Atualmente trabalho como desenvolvedor Full Stack na DKMA Tecnologia, onde sou r
 ### Formação
 Analise e Desenvolvimento de Sistemas (em andamento) - Impacta Tecnologia
 
-### 🧰 Toolbox
+### Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
@@ -28,7 +28,7 @@ Analise e Desenvolvimento de Sistemas (em andamento) - Impacta Tecnologia
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; Meus status
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
