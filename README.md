@@ -1,6 +1,13 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alexandre "Xandee" Muniz!
+### Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Alexandre!
 
-A Full Stack developer, focused on PHP.
+### Sobre mim
+Sou um desenvolvedor full stack com experiência em PHP, Laravel, CodeIgniter, jQuery, JavaScript e integrações com APIs e plug-ins. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando sempre aprimorar meus conhecimentos e habilidades na área.
+
+### Experiência
+Atualmente trabalho como desenvolvedor Full Stack na DKMA Tecnologia, onde sou responsável pelo desenvolvimento e implementação de sistemas e sites, elaboração de documentação, revisão e testes de uso, otimização de sites, manutenção em sistemas já desenvolvidos, publicação de sistemas em ambiente de teste e integrações com APIs e plug-ins.
+
+### Formação
+Analise e Desenvolvimento de Sistemas (em andamento) - Impacta Tecnologia
 
 ### 🧰 Toolbox
 
