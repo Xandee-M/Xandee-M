@@ -28,10 +28,10 @@ Analise e Desenvolvimento de Sistemas (em andamento) - Impacta Tecnologia
 
 ---
 
-## &#x1f4c8; Meus status
-
-<div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xandee-M&theme=dark&locale=pt-br&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandee-M&theme=dark&locale=pt-br&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+## Meus status
+<a href="https://github.com/Xandee-M">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xandee-M&theme=dark&locale=pt-br&background=000000" alt="Xandee-M's Streak" style="width: 48%; height: 190px;" />
+</a>
+<a href="https://github.com/Xandee-M">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandee-M&theme=dark&locale=pt-br&layout=compact&theme=vision-friendly-dark" style="height: 220px; width: 353px;" />
+</a>
