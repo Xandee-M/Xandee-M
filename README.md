@@ -31,10 +31,7 @@ Analise e Desenvolvimento de Sistemas (em andamento) - Impacta Tecnologia
 ## &#x1f4c8; Meus status
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandee-M&theme=radical&layout=compact&langs_count=7" alt="Top stats" style="align: center; display: inline-block; height: 11em;"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xandee-M&theme=radical&count_private=true&include_all_commits=true" alt="Leo's GitHub stats" style="align: center; display: inline-block; height: 11em;" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xandee-M&theme=dark&locale=pt-br&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandee-M&theme=dark&locale=pt-br&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
