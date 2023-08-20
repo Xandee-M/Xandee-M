@@ -12,7 +12,6 @@
 
 Let's connect, collaborate, and code to shape the digital landscape together! 🌐👨‍💻
 
-<br><br>
 ## 🛠 &nbsp;Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
