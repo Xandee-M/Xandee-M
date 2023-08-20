@@ -1,6 +1,7 @@
 <img align="right" height="580em" src="https://raw.githubusercontent.com/gist/Xandee-M/f58b3a5dca3e34015c0dd2327073ab1d/raw/86320533fc4d1484eab66a1ddd46a1bb2609d1a5/githubcard.svg"/>
 
-<h1 align="left">Hi, I'm Alexandre Muniz. Nice to meet you. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/></h1>
+
+<h1 align="left">Hi, I'm Alexandre Muniz. Nice to meet you.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Xandee-M&color=blue" alt="Profile views" /> </p>
 
