@@ -1,4 +1,3 @@
-<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/Xandee-M/c10194ead6ab0c9a233ea347513b39e9/raw/7f20160fa0aeee4d4eb0fd511e566562a4a02f29/githubcard.svg"/>
 
 <h1 align="left">Hi, I'm Alexandre. Nice to meet you.</h1>
 
