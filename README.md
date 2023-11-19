@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Xandee-M&color=blue" alt="Profile views" /> </p>
 
-🛠️ My Toolbox: PHP, JavaScript, Node.js, Vue.js, and Python are my trusty companions in the realm of code. They help me weave intricate digital tapestries that come to life with every interaction.
+🛠️ My Toolbox: PHP, JavaScript, Node.js and Vue.js, are my trusty companions in the realm of code. They help me weave intricate digital tapestries that come to life with every interaction.
 
 📚 My Learning Odyssey: While I'm already adept in my current toolkit, I'm always hungry for new knowledge. Currently, I'm immersing myself in the realms of Java and Kotlin, expanding my horizons one byte at a time.
 
